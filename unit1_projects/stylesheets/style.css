@@ -1,0 +1,108 @@
+nav{
+	height: 40px;
+	width: 100%;
+	background-color: #333333;
+	color: white;
+}
+
+nav ul > li {
+	display: inline; 
+	
+}
+
+.left-nav{
+	float: left;
+	padding: 10px 0 10px 30px;
+}
+
+.right-nav{
+	float:right;
+	word-spacing: 30px;
+	padding: 10px 35px 10px 0; 
+}
+
+.container{
+	max-width: 100%;
+}
+
+.bgimage{
+	background-color: black;
+	background-image: url('../images/sf.png');
+	background-size: cover;
+	overflow: auto;
+}
+
+span {
+    color: #3498db;
+}
+
+
+h1{
+	font-size: 4.12vw;
+	/* content / context = target 
+	40px / 16 px = 
+	*/
+	color: white;
+	font-style: uppercase;
+    font-family: lato;
+}
+
+h3 {
+	color: white;
+	font-style: lowercase;
+    font-family: lato;
+}
+
+.intro{
+	text-align: center;
+	padding: 200px 0 200px 0;
+}
+
+.left-box{
+	margin: 40px 40px 0 10px;
+	width: 30.1282051%;
+	height: 250px;
+	background-color: #95a5a6;
+	float: left;
+	max-height: 250px;
+    border: 1px dashed black;
+        
+
+}
+
+.center-box{
+	margin: 40px 35px 0 0;
+	width: 30.1282051%;
+	height: 100px;
+	background-color: transparent;
+	float: left;
+
+}
+
+.right-box{
+	margin: 40px 0 0 0;
+	width: 30.1282051%;
+	height: 210px;
+	padding-top: 40px;
+	float: right;
+    border: solid 1px #d1d4d6;
+        
+    
+	 
+}
+
+.footer{
+	margin: 140px 0 0 0;
+	height: 100px;
+	text-align: center;
+
+}
+
+i{
+	padding : 10px;
+	color: #7f8c8d;
+}
+
+i:hover{
+	color:#333333 ;
+}
