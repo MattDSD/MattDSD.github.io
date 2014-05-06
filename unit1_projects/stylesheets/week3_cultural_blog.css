@@ -7,7 +7,7 @@
       a {
         color: white;
       }
-      ul {
+      #toolbar {
         padding: 10px;
         background: black;
       }
@@ -46,14 +46,13 @@ p {
 }
 
 .canvas {
-    height: 1300px;
+    height: 1100px;
     width: 1000px;
     min-height: 100px;
     background-color: #E3F6FF;
     margin-top: -20px;
     margin-left: 5%;
     margin-right: 5%;
-
 }
 
 
@@ -65,5 +64,8 @@ h2 {
 
 h3 {
     margin-left: 50px;
-    
+}
+
+ol {
+  margin-left: 250px;  
 }
