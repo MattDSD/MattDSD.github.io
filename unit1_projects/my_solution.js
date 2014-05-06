@@ -194,4 +194,4 @@ this.attackXY(49, 67);
 this.attackXY(49, 51);//second shot to kill big guy
 this.attackXY(70, 57);
 this.moveXY(39, 4);
-this.attackXY(44, 18);//second shot to kill 2nd big guy
+this.attackXY(44, 18);//second shot to kill 2nd big guy.
